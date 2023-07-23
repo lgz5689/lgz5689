@@ -8,9 +8,9 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="55%" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lgz5689&show_icons=true&hide_border=true" />
-</p>
+</p> -->
 
 <!-- <div>
   <a href="https://github.com/lgz5689">
