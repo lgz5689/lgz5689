@@ -4,11 +4,15 @@
   <a href="https://github.com/lgz5689"><img alt="Dev Community" src="https://img.shields.io/badge/-Github-0078D4?style=flat&logo=Github&logoColor=white"></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-</p> -->
+</p>
 
-<div>
+<p align="center">
+  <img width="55%" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lgz5689&show_icons=true&hide_border=true" />
+</p>
+
+<!-- <div>
   <a href="https://github.com/lgz5689">
     <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lgz5689&show_icons=true&hide_border=true" />
   </a>
@@ -28,7 +32,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
-</div>
+</div>-->
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 ```javascript
