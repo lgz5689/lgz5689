@@ -23,4 +23,4 @@
 console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
 
-![](images/Bottom_down.svg)
+![](images/bottom_down.svg)
